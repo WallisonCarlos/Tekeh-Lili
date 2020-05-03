@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Useable
+  - LimiteEnemy
+  - Enemy
+  - EnemyWeapon
+  - PlayerWeapon
+  - Life
+  - Coin
+  - Play
+  - Quit
+  - PlayerKunai
+  - PlayerShuriken
+  - ShurikenPlus
+  - KunaiPlus
+  - CheckPoint
+  - MallocWeapon
+  - SnowgrowWeapon
+  - DrogonWeapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform
+  - Player
+  - NotGround
+  - Enemy
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 1413107281
+    locked: 0
+  - name: RocksBack
+    uniqueID: 929495111
+    locked: 0
+  - name: CloudBack
+    uniqueID: 3485528375
+    locked: 0
+  - name: CloudMiddle
+    uniqueID: 1194942537
+    locked: 0
+  - name: CloudFront
+    uniqueID: 878696123
+    locked: 0
+  - name: RockFront
+    uniqueID: 4185926209
+    locked: 0
+  - name: Platform
+    uniqueID: 114622163
+    locked: 0
+  - name: Temple
+    uniqueID: 4464051
+    locked: 0
+  - name: Ladder
+    uniqueID: 2252564597
+    locked: 0
+  - name: Enemy
+    uniqueID: 2004333131
+    locked: 0
+  - name: Player
+    uniqueID: 3024052847
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
