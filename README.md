@@ -1,7 +1,6 @@
 # Tekeh-Lili
 
-Jogo 2D de plataforma feito em C# na plataforma da Unity a história e características do jogo vocês podem encontrar na Wiki desse
-repositório.
+Jogo 2D de plataforma feito em C# na plataforma da Unity. A história e características do jogo vocês podem encontrar na Wiki desse repositório.
 
 Para editar, compilar e criar um executável é necessário a plataforma da Unity. 
 
